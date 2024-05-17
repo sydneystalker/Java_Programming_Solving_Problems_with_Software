@@ -1,6 +1,6 @@
 This course is offered at Coursera. 
 
-Here is my [certificate] (https://coursera.org/share/ab844c113e4e4e2317c8c2223efc91f0). 
+Here is my [certificate](https://coursera.org/share/ab844c113e4e4e2317c8c2223efc91f0). 
 
 I completed this course in 4 weeks while going to school.
 
